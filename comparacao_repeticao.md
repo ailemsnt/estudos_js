@@ -9,8 +9,10 @@ Todas as funções podem ser refatoradas para melhor performance e leitura por o
 ## 📚 Operadores
 
 ```javascript
-===  // igual
-!==  // diferente
+===  // igualdade estrita/absoluta (compara os tipos  e valores)
+==   // igualdade ampla (compara apenas valores)
+!==  // desigualdade estrita/diferente absoluto (compara os tipos  e valores)
+!=   // desigualdade abstrata (compara apenas valores)
 !    // negação (not)
 &&   // e (and)
 ||   // ou (or)
