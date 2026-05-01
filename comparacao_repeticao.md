@@ -1,8 +1,9 @@
-````md
 # 📘 Guia Básico de JavaScript (Para Iniciantes)
+````md
 
 Este documento foi criado para fins de estudo, simplificando o entendimento de lógica e estruturas básicas em JavaScript.
 Todas as funções podem ser refatoradas para melhor performance e leitura por outros devs ao utilizar no dia a dia
+````
 
 ---
 
